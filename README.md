@@ -12,12 +12,12 @@ Company site: [blackcloudllc.vercel.app](https://blackcloudllc.vercel.app)
 | --- | --- | --- |
 | arrangementLab | Visual arrangement analysis for songwriters and producers | [arrangementlab.com](https://arrangementlab.com) |
 | DriveMosaic | Native macOS disk space analyzer with treemap visualization | [drivemosaic.app](https://drivemosaic.app) |
-| exitPlan | AI home emergency planner. Walk through your home with your phone, get a personalized plan in ten minutes. Video never leaves the device. | [exitplan.today](https://exitplan.today) |
 
 ## In development
 
 | Product | What it does |
 | --- | --- |
+| exitPlan | AI home emergency planner. Walk through your home with your phone, get a personalized plan in ten minutes. Video never leaves the device. Preview at [exitplan.today](https://exitplan.today) |
 | Bindery | Document assistant for insurance agencies: retrieval over policy and coverage documents with cited answers |
 | Portfolio Intelligence | Personal portfolio and finance dashboard |
 | JobBot | Automated and AI-assisted job search across multiple applicant tracking systems |
